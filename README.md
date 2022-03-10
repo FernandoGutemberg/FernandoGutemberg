@@ -5,7 +5,7 @@
 - 🛠 Algoritmos 
 - 🛠 PHP 
 - 🛠 Java
-- 😄 Pornouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/FernandoGutemberg">

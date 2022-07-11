@@ -1,6 +1,6 @@
 ###   Olá! Eu sou o Fernando Gutemberg✌
 
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando:
 - 🛠 React Native  
 - 🛠 HTML e CSS

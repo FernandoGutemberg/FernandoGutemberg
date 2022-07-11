@@ -2,9 +2,8 @@
 
 - 🔭 Estou cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando:
-- 🛠 Algoritmos 
-- 🛠 PHP 
-- 🛠 Java
+- 🛠 React Native  
+- 🛠 HTML e CSS
 - 😄 Pronomes: ele/dele
 
 <div align="center">

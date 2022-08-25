@@ -1,9 +1,10 @@
 ###   Olá! Eu sou o Fernando Gutemberg✌
 
 - 🔭 Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando:
+- 🌱 Desenvolvendo em:
 - 🛠 React Native  
 - 🛠 HTML e CSS
+- 🛠 JavaScrip
 - 😄 Pronomes: ele/dele
 
 <div align="center">

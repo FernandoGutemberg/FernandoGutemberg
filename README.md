@@ -18,6 +18,8 @@
   <img align="center" alt="Nando-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nando-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nando-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Nando-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 
 
   

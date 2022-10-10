@@ -11,11 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoGutemberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoGutemberg&layout=compact&langs_count=7&theme=dark"/>
   
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=fernandogutemberg&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogutemberg" /> </p>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nando-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

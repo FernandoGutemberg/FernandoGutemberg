@@ -24,7 +24,5 @@
      <a href="https://www.linkedin.com/in/fernando-gutemberg-05a122219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
-<p align="center"> <img alingn="center"> src="https://profile-counter.glitch.me/FernandoGutemberg/count.svg" /><p/>
-
 
 !(snake gif)(https://github.com/FernandoGutemberg/FernandoGutemberg/blob/output/github-contribuition-grit-snake.svg)

@@ -4,7 +4,7 @@
 - 🌱 Desenvolvendo em:
 - 🛠 React Native  
 - 🛠 HTML e CSS
-- 🛠 JavaScrip
+- 🛠 JavaScript
 
 <div align="center">
   <a href="https://github.com/FernandoGutemberg">

@@ -5,7 +5,6 @@
 - 🛠 React Native  
 - 🛠 HTML e CSS
 - 🛠 JavaScrip
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/FernandoGutemberg">

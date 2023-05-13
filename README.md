@@ -2,9 +2,10 @@
 
 - 🔭 Análise e Desenvolvimento de Sistemas
 - 🌱 Desenvolvendo em:
-- 🛠 React Native  
-- 🛠 HTML e CSS
+- 🛠 HTML e CSS   
 - 🛠 JavaScript
+- 🛠 React Native
+- 🛠 C#
 
 <div align="center">
   <a href="https://github.com/FernandoGutemberg">

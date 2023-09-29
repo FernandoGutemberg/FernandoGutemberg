@@ -1,10 +1,8 @@
 ###   Olá! Eu sou o Fernando Gutemberg✌
 
 - 🔭 Análise e Desenvolvimento de Sistemas
-- 🌱 Desenvolvendo em:
-- 🛠 HTML e CSS   
+- 🌱 Desenvolvendo em: 
 - 🛠 JavaScript
-- 🛠 React Native
 - 🛠 C#
 
 <div align="center">

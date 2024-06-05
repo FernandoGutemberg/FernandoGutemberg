@@ -1,7 +1,6 @@
 ###   Olá! Eu sou o Fernando Gutemberg✌
 
-- 🔭 Análise e Desenvolvimento de Sistemas
-- Desenvolvendo em: 
+- 🔭 Desenvolvendo em: 
 - JavaScript
 - React JS
 - Express

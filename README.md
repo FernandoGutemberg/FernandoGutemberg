@@ -6,6 +6,8 @@
 - React JS
 - Express
 - MongoDB
+- Java
+- C#
 
 <div align="center">
   <a href="https://github.com/FernandoGutemberg">

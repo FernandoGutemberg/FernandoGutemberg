@@ -5,8 +5,6 @@
 - React JS
 - Express
 - MongoDB
-- Java
-- C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nando-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

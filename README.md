@@ -41,8 +41,6 @@
 🔹 Orçamento de viagem com cálculos e categorias  
 🔹 Autenticação e rotas protegidas  
 
-➡ *Sugestão de imagem para o projeto:*  
-**“Mapa com pins, fotos e rotas turísticas”**
 
 ---
 
@@ -52,9 +50,6 @@
 🔹 Autorização por nível de permissão  
 🔹 MongoDB estruturado  
 🔹 Express.js com boas práticas de rotas e middlewares
-
-➡ *Sugestão de imagem para o projeto:*  
-**“Livros conectados a APIs, cadeado simbolizando segurança”**
 
 ---
 

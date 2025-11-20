@@ -1,10 +1,5 @@
 ###   Olá! Eu sou o Fernando Gutemberg✌
 
-- 🔭 Desenvolvendo em: 
-- JavaScript
-- React JS
-- Express
-- MongoDB
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nando-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

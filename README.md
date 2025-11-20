@@ -1,5 +1,9 @@
 ###   Olá! Eu sou o Fernando Gutemberg✌
 
+Bem-vindo(a) ao meu perfil!
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso uma pós-graduação em Computação em Nuvem.
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nando-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

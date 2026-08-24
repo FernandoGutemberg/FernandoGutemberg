@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Fernando Gutemberg  
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-🎓 Pós-graduando em **Computação em Nuvem**  
+🎓 Pós-graduado em **Computação em Nuvem**  
 
 💻 Desenvolvedor Full Stack com foco em **ReactJS, Node.js, Express e MongoDB**  
 ☁️ Experiência em **AWS**, arquitetura em nuvem e boas práticas de deploy  

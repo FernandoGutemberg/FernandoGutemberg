@@ -1,11 +1,9 @@
-# 👋 Olá! Eu sou o Fernando Gutemberg
-
 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 ☁️ Pós-graduado em **Computação em Nuvem**  
 🌐 Profissional de TI com experiência em **Redes, Suporte e Infraestrutura**  
 🚀 Em transição e evolução de carreira para **Cloud Computing e Cloud Infrastructure**
 ---
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Sou profissional de Tecnologia da Informação com experiência em **desenvolvimento de software, suporte técnico, redes e infraestrutura**, atualmente direcionando minha carreira para **Cloud Computing**.
 Minha experiência em ambientes de **ISP (Internet Service Provider)** me permite trabalhar diretamente com conceitos de redes, conectividade, monitoramento, troubleshooting e infraestrutura.
@@ -13,7 +11,7 @@ Minha experiência em ambientes de **ISP (Internet Service Provider)** me permit
 Meu objetivo é unir minha experiência prática em **redes e infraestrutura** com conhecimentos de **Cloud, automação e observabilidade**, buscando atuar como **Cloud Analyst, Cloud Support, Cloud Infrastructure ou Cloud Engineer**.
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Cloud
 
@@ -46,11 +44,11 @@ Meu objetivo é unir minha experiência prática em **redes e infraestrutura** c
 
 ---
 
-## 💻 Experiência anterior em Desenvolvimento
+## Experiência anterior em Desenvolvimento
 
 Antes de direcionar minha carreira para Cloud e Infraestrutura, atuei com desenvolvimento Full Stack.
 
-### 🌎 Sistema de Turismo
+### Sistema de Turismo
 
 Projeto desenvolvido utilizando:
 
@@ -65,7 +63,7 @@ Projeto desenvolvido utilizando:
 - Upload de imagens
 - Sistema de orçamento
 
-### 📚 Sistema de Biblioteca
+### Sistema de Biblioteca
 
 Projeto desenvolvido para estudo de desenvolvimento de APIs e aplicações web.
 
@@ -81,6 +79,6 @@ Principais recursos:
 
 ---
 
-## 🎯 Objetivo profissional
+## Objetivo profissional
 
 Meu objetivo é construir uma carreira sólida em **Cloud Computing**, aproveitando minha experiência anterior em desenvolvimento e minha experiência prática com **redes, infraestrutura, suporte e monitoramento**.

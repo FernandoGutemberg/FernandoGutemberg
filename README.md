@@ -1,23 +1,27 @@
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
-☁️ Pós-graduado em **Computação em Nuvem**  
-🌐 Profissional de TI com experiência em **Redes, Suporte e Infraestrutura**  
-🚀 Em transição e evolução de carreira para **Cloud Computing e Cloud Infrastructure**
----
-## Sobre mim
+🎓 Graduated in **Systems Analysis and Development**  
+☁️ Postgraduate Degree in **Cloud Computing**  
+🌐 IT Professional with experience in **Networking, Technical Support, and Infrastructure**  
+🚀 Currently transitioning and advancing my career in **Cloud Computing and Cloud Infrastructure**
 
-Sou profissional de Tecnologia da Informação com experiência em **desenvolvimento de software, suporte técnico, redes e infraestrutura**, atualmente direcionando minha carreira para **Cloud Computing**.
-Minha experiência em ambientes de **ISP (Internet Service Provider)** me permite trabalhar diretamente com conceitos de redes, conectividade, monitoramento, troubleshooting e infraestrutura.
-
-Meu objetivo é unir minha experiência prática em **redes e infraestrutura** com conhecimentos de **Cloud, automação e observabilidade**, buscando atuar como **Cloud Analyst, Cloud Support, Cloud Infrastructure ou Cloud Engineer**.
 ---
 
-## Tecnologias
+## About Me
+
+I am an Information Technology professional with experience in **software development, technical support, networking, and infrastructure**, currently focusing my career on **Cloud Computing**.
+
+My experience in **ISP (Internet Service Provider)** environments allows me to work directly with networking concepts, connectivity, monitoring, troubleshooting, and infrastructure.
+
+My goal is to combine my hands-on experience in **networking and infrastructure** with knowledge of **Cloud, Automation, and Observability**, pursuing opportunities as a **Cloud Analyst, Cloud Support Specialist, Cloud Infrastructure Specialist, or Cloud Engineer**.
+
+---
+
+## Technologies
 
 ### Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Infraestrutura & Observabilidade
+### Infrastructure & Observability
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -27,18 +31,18 @@ Meu objetivo é unir minha experiência prática em **redes e infraestrutura** c
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![MTCNA](https://img.shields.io/badge/MTCNA-MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
-### Redes
+### Networking
 
 ![IPv4](https://img.shields.io/badge/IPv4-Networking-blue?style=for-the-badge)
 ![GPON](https://img.shields.io/badge/GPON-FTTH-green?style=for-the-badge)
 ![MPLS](https://img.shields.io/badge/MPLS-Networking-orange?style=for-the-badge)
 
-### Programação & Automação
+### Programming & Automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Desenvolvimento
+### Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -47,41 +51,41 @@ Meu objetivo é unir minha experiência prática em **redes e infraestrutura** c
 
 ---
 
-## Experiência anterior em Desenvolvimento
+## Previous Software Development Experience
 
-Antes de direcionar minha carreira para Cloud e Infraestrutura, atuei com desenvolvimento Full Stack.
+Before focusing my career on Cloud Computing and Infrastructure, I worked with Full Stack Development.
 
-### Sistema de Turismo
+### Tourism Management System
 
-Projeto desenvolvido utilizando:
+Project developed using:
 
 - React
 - Node.js
 - Express
 - MongoDB
 - Google Maps API
-- Autenticação
-- CRUD
-- Geolocalização
-- Upload de imagens
-- Sistema de orçamento
+- Authentication
+- CRUD Operations
+- Geolocation
+- Image Upload
+- Budget Estimation System
 
-### Sistema de Biblioteca
+### Library Management System
 
-Projeto desenvolvido para estudo de desenvolvimento de APIs e aplicações web.
+A project developed to gain experience in API development and web applications.
 
-Principais recursos:
+Key features:
 
-- Autenticação JWT
-- CRUD de livros e usuários
-- Controle de permissões
+- JWT Authentication
+- Book and User CRUD Operations
+- Access Control and Permissions
 - MongoDB
 - Express.js
-- Middlewares
-- APIs REST
+- Middleware
+- REST APIs
 
 ---
 
-## Objetivo profissional
+## Career Objective
 
-Meu objetivo é construir uma carreira sólida em **Cloud Computing**, aproveitando minha experiência anterior em desenvolvimento e minha experiência prática com **redes, infraestrutura, suporte e monitoramento**.
+My goal is to build a solid career in **Cloud Computing**, leveraging my previous experience in software development and my hands-on experience with **networking, infrastructure, technical support, and monitoring**.
